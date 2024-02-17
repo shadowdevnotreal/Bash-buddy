@@ -93,7 +93,7 @@ For support, feedback, or suggestions, please open an issue in the GitHub reposi
 - Adjust any specific instructions or descriptions as needed based on your project's setup or requirements.
 - If you have not already, consider adding a `LICENSE` file to clearly communicate how others can use or contribute to your project.
 
-This README provides a comprehensive guide for users to get started with your, understand its features, and know how to contribute.
+This README provides a comprehensive guide for users to get started, understand its features, and know how to contribute.
 
 ---
 
