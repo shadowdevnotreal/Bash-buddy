@@ -5,6 +5,11 @@
 
 BashBuddy is a comprehensive tool designed to ensure your Bash scripts run smoothly across different environments by managing system commands and package dependencies. It supports a variety of package managers across Linux distributions and macOS.
 
+## Support FOSS future development
+
+<a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+
+
 ## Features
 
 - Automatic detection of the operating system and the appropriate package manager.
@@ -77,6 +82,14 @@ We welcome contributions! Please follow these steps to contribute to BashBuddy:
 ## Feedback and Support
 
 For support, feedback, or suggestions, please open an issue in the GitHub repository. Your input helps make BashBuddy better for everyone.
+
+### Final Steps
+
+- Ensure you replace `https://github.com/yourusername/Bash-Buddy.git` with the actual URL of your GitHub repository.
+- Adjust any specific instructions or descriptions as needed based on your project's setup or requirements.
+- If you have not already, consider adding a `LICENSE` file to clearly communicate how others can use or contribute to your project.
+
+This README provides a comprehensive guide for users to get started with your, understand its features, and know how to contribute.
 
 ---
 
