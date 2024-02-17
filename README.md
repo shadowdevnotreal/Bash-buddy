@@ -32,7 +32,7 @@ BashBuddy comes with three key scripts:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/BashBuddy.git
+git clone https://github.com/shadowdevnotreal/Bash-Buddy.git
 
 # Navigate to the BashBuddy directory
 cd BashBuddy
