@@ -28,6 +28,10 @@ BashBuddy comes with three key scripts:
 
 3. **Fully Working Sample Script**: An expanded version of the Main Skeleton Script, including comprehensive command-to-package mappings and real installation capabilities. This script is intended for users who want to see BashBuddy in action, managing actual dependencies.
 
+
+## Highly advised reading on usage instructions
+***[WIKI Page](https://github.com/shadowdevnotreal/Bash-buddy/wiki/).***
+
 ## Installation
 
 ```bash
@@ -85,7 +89,7 @@ For support, feedback, or suggestions, please open an issue in the GitHub reposi
 
 ### Final Steps
 
-- Ensure you replace `https://github.com/yourusername/Bash-Buddy.git` with the actual URL of your GitHub repository.
+- Ensure you replace `https://github.com/shadowdevnotreal/Bash-Buddy.git` with the actual URL of your GitHub repository.
 - Adjust any specific instructions or descriptions as needed based on your project's setup or requirements.
 - If you have not already, consider adding a `LICENSE` file to clearly communicate how others can use or contribute to your project.
 
