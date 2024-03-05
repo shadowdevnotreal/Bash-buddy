@@ -5,10 +5,11 @@
 
 BashBuddy is a comprehensive tool designed to ensure your Bash scripts run smoothly across different environments by managing system commands and package dependencies. It supports a variety of package managers across Linux distributions and macOS.
 
-## Support FOSS future development
+## Support FOSS future development - Simping for donations here 👇
 
-<a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
-
+<a href="https://www.buymeacoffee.com/notarealdev">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cat&emoji=🐈&slug=notarealdev&button_colour=9123cd&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" />
+</a>
 
 ## Features
 
@@ -75,7 +76,7 @@ Use the fully working sample script for managing real dependencies. This script 
 
 ## Contributing
 
-We welcome contributions! Please follow these steps to contribute to BashBuddy:
+We welcome contributions! Please follow these steps to contribute to darooch:
 
 1. Fork the Project.
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
@@ -89,7 +90,7 @@ For support, feedback, or suggestions, please open an issue in the GitHub reposi
 
 ### Final Steps
 
-- Ensure you replace `https://github.com/shadowdevnotreal/Bash-Buddy.git` with the actual URL of your GitHub repository.
+- Ensure you replace `https://github.com/shadowdevnotreal/Bash-buddy.git` with the actual URL of your GitHub repository.
 - Adjust any specific instructions or descriptions as needed based on your project's setup or requirements.
 - If you have not already, consider adding a `LICENSE` file to clearly communicate how others can use or contribute to your project.
 
@@ -98,3 +99,7 @@ This README provides a comprehensive guide for users to get started, understand 
 ---
 
 As always = TY 😊 
+
+<a href="https://www.buymeacoffee.com/notarealdev">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cat&emoji=🐈&slug=notarealdev&button_colour=9123cd&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" />
+</a>
