@@ -1,4 +1,5 @@
-![file-qG7xJYxXVw5KuElGjeBdXBhf](https://github.com/shadowdevnotreal/Bash-buddy/assets/43219706/a2dfbc79-ceb4-498a-9d1e-703072e169d5)
+<img width="1024" height="1024" alt="ChatGPT Image Nov 19, 2025, 05_39_11 PM" src="https://github.com/user-attachments/assets/66a7a991-e515-46b0-8f69-9a36e399a5ce" />
+
 
 <div align="center">
 
